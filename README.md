@@ -1,7 +1,7 @@
 # Simple CPU Simulator
 
-## Author
-**Jamel P. Hadjirasul**
+## Author ## 
+**Jamel P. Hadjirasul,**
 **4th Year - Bachelor of Science in Computer Engineering**
 
 ## Description
