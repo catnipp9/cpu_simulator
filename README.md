@@ -1,7 +1,8 @@
 # Simple CPU Simulator
 
 ## Author
-**Jamel P. Hadjirasul      BSCPE-4**
+**Jamel P. Hadjirasul**
+**4th Year - Bachelor of Science in Computer Engineering**
 
 ## Description
 Designed to simulate a basic CPU, this application brings the Fetch-Decode-Execute cycle to life! It allows you to define a program's instruction set, initialize data values in memory, and then observe precisely how the CPU executes operations step-by-step or runs the entire program automatically. It's your personal microscopic view into the brain of a computer.
